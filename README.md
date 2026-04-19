@@ -44,7 +44,7 @@ chatroom/
 ### 1. Clone or download the project
 
 ```bash
-git https://github.com/AJAY-AJ-03/chat_room.git
+git clone https://github.com/AJAY-AJ-03/chatroom.git
 cd chatroom
 2. Create a virtual environment (optional)
 python -m venv venv
